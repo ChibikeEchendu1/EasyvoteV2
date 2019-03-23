@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dc39dbb-4c72-4afa-a096-09707b6c4c7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/EasyVote/src/components/CandidateListForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/EasyVote/src/components/ElectionsListForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/EasyVote/src/components/Screen Shot 2019-01-14 at 3.10.56 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/EasyVote/src/pages/CandidateList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/EasyVote/src/pages/ElectionList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/EasyVote/src/pages/Screen Shot 2019-01-14 at 3.10.56 AM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EasyVote.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EasyVote.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/EasyVote/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/EasyVote/Router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/EasyVote/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/EasyVote/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/EasyVote/src/components/HeaderSet.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/EasyVote/src/components/HeaderSet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/EasyVote/src/components/ProfileForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/EasyVote/src/components/ProfileForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/EasyVote/src/components/SignUpForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/EasyVote/src/components/SignUpForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/EasyVote/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/EasyVote/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/EasyVote/src/pages/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/EasyVote/src/pages/Profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/website/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/website/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/website/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/website/src/Screens/AdminHome.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/Screens/AdminHome.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/website/src/Screens/Election.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/Screens/Election.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/website/src/Screens/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/Screens/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/website/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8dc39dbb-4c72-4afa-a096-09707b6c4c7a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +98,24 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-808072406">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -157,13 +149,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
+            <state relative-caret-position="1323">
               <caret line="63" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/website/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -193,11 +185,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+            <state relative-caret-position="323">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -302,10 +294,10 @@
         <option value="$PROJECT_DIR$/frontend/website/src/Screens/Register.vue.js" />
         <option value="$PROJECT_DIR$/frontend/website/src/Screens/UserRegistration.vue" />
         <option value="$PROJECT_DIR$/frontend/website/src/router/index.js" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/website/index.html" />
         <option value="$PROJECT_DIR$/frontend/website/public/index.html" />
         <option value="$PROJECT_DIR$/frontend/website/src/Screens/Election.vue" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -316,8 +308,6 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/frontend/EasyVote/node_modules" />
-    <handled-path value="$PROJECT_DIR$/frontend/website/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
@@ -402,33 +392,18 @@
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="easyvote" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="EasyvoteV2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="easyvote" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="EasyvoteV2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="easyvote" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="EasyvoteV2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="website" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="easyvote" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="website" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="easyvote" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="website" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -440,6 +415,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -497,17 +473,18 @@
       <workItem from="1551826826619" duration="547000" />
       <workItem from="1552443347516" duration="8000" />
       <workItem from="1552861417533" duration="39000" />
+      <workItem from="1553365771612" duration="68000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125040000" />
+    <option name="totallyTimeSpent" value="125108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="23" width="742" height="877" extended-state="0" />
+    <frame x="3" y="23" width="742" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13592233" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23578364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -575,13 +552,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/website/node_modules/vue-datetime-picker/src/vue-datetime-picker.js" />
     <entry file="file://$PROJECT_DIR$/frontend/website/node_modules/vue-datetime-picker/demo/demo.vue" />
-    <entry file="file://$PROJECT_DIR$/frontend/website/node_modules/vue-datetime/dist/vue-datetime.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/website/node_modules/vue-datetime/dist/vue-datetime.css" />
     <entry file="file://$PROJECT_DIR$/backend/models/electionBody.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -638,13 +609,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/frontend/EasyVote/src/pages/ProfileEdit.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -819,6 +784,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/website/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -830,13 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1722">
           <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -854,13 +819,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/website/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -868,6 +826,13 @@
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
