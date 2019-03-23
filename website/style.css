@@ -1,0 +1,104 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+body {
+	height: 100%;
+	color: #777;
+	padding-top: 80px;
+
+}
+.background {
+	height: 500px;
+	background-image: url("./images/correct-diverse-diversity-1282270.jpg");
+	background-size: cover;
+	/*filter: blur(8px);
+  -webkit-filter: blur(1px);*/
+
+
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+		position: fixed;
+	background-color: white;
+	height: 100px;
+	right: 0;
+	left:0;
+	top:0;
+
+}
+/*.navbar > * {
+	display: inline-block;
+	position: relative;
+}*/
+
+.navbar >.header {
+	display: flex;
+	/*justify-content: center;*/
+	align-items: center;
+
+	font-size: 30px;
+	color: #777;
+}
+.header > img {
+	height: 50px
+}
+
+.nav-right {
+	/*position: absolute;*/
+	/*right: 20;*/
+	/*top: 50;*/
+	color: #777;
+}
+.nav-right > a{
+	padding-right: 30px;
+}
+
+.section {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+	
+}
+.section>p {
+	font-size: 24px;
+	width: 200px;
+
+}
+
+.credit {
+	visibility: hidden; ;
+}
+
+.about {
+	font-size: 24px;
+	display: flex;
+	
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #333;
+	height:300px;
+	align-content: center;
+	color: white;
+	
+}
+
+
+.about > * {
+	/*display: inline-block;*/
+	max-width: 700px;
+}
+
+.about-links {
+	color: white;
+	font-size: 18px;
+}
+
+.contact-info{
+	font-size: 16px;
+}
+/*https://www.flaticon.com/free-icon/devices_115756#term=mobile&page=1&position=50*/
