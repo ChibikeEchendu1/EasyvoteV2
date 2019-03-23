@@ -7,6 +7,11 @@ const electionBodyRouter = require("./backend/routes/electionbody");
 const voteRouter = require("./backend/routes/vote");
 const electionRouter = require("./backend/routes/election");
 
+<<<<<<< HEAD
+=======
+const clientRouter = require("./backend/routes/client");
+
+>>>>>>> f4a02e3e56d5d97f74d8e4f69f4a07bd6478e087
 const analyticsRouter = require("./backend/routes/analytics");
 /*
 Set up mongodb/mongoose
@@ -36,11 +41,18 @@ app.use('/user', userRouter);
 app.use('/electionBody', electionBodyRouter);
 app.use('/vote', voteRouter);
 app.use('/election', electionRouter);
+<<<<<<< HEAD
 app.use('/client', clientRouter);
 app.use('/analytics', analyticsRouter);
 app.use('/analytics', analyticsRouter);
 
 
+=======
+
+app.use('/client', clientRouter);
+app.use('/analytics', analyticsRouter);
+
+>>>>>>> f4a02e3e56d5d97f74d8e4f69f4a07bd6478e087
 //used to test if server is running
 app.get('/', (req,res)=>{
 	res.send("Hello world"); //prints hello world
